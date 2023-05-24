@@ -1,2 +1,4 @@
 # matlab-kalman-filter
-Kalman filter implemented on matlab
+This is a University project about Kalman filter implemented on Matlab.
+The PDF contains explanations and the code in Greek.
+
